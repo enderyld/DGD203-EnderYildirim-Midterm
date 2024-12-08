@@ -1,0 +1,14 @@
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/midterm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/midterm.AssemblyInfoInputs.cache
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/midterm.AssemblyInfo.cs
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/midterm.csproj.CoreCompileInputs.cache
+/Users/enderyld/RiderProjects/midterm/midterm/bin/Debug/net8.0/midterm
+/Users/enderyld/RiderProjects/midterm/midterm/bin/Debug/net8.0/midterm.deps.json
+/Users/enderyld/RiderProjects/midterm/midterm/bin/Debug/net8.0/midterm.runtimeconfig.json
+/Users/enderyld/RiderProjects/midterm/midterm/bin/Debug/net8.0/midterm.dll
+/Users/enderyld/RiderProjects/midterm/midterm/bin/Debug/net8.0/midterm.pdb
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/midterm.dll
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/refint/midterm.dll
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/midterm.pdb
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/midterm.genruntimeconfig.cache
+/Users/enderyld/RiderProjects/midterm/midterm/obj/Debug/net8.0/ref/midterm.dll
